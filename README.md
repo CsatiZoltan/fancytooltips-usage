@@ -51,7 +51,7 @@ Call fancy-preview from the command prompt:
 
 With the example files of this repository:
 
-	perl fancy-preview mwe.tex --ini_file=settings.ini
+	perl fancy-preview mwe --ini_file=settings.ini
 
 
 
