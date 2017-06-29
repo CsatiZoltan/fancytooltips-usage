@@ -68,7 +68,6 @@ Currently there are some limitations of the fancy-preview script:
 - it is hard-coded for bibtex and not for biber
 - requires Adobe Reader/Acrobat
 - cropping with *pdfcrop* can can result in (relatively) large file sizes as is mentioned in the [manual](http://ftp.oleane.net/pub/CTAN/macros/latex/contrib/fancytooltips/fancytooltips.pdf) too. You can use pdftk instead.
-- environments (like figures) must float
 
 
 
