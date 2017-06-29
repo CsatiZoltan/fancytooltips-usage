@@ -57,7 +57,7 @@ With the example files of this repository:
 
 ## Using with *biber*
 
-I modified the *fancy-preview* script to work with biber. However, it only works if the .bbl file has already been created. Therefore, first run `pdflatex-biber` and then the *fancy-preview_biber* script the same way as described above. Unfortunately, it does not extract the bibliography, only the references.
+I managed to modify the *fancy-preview* script to work with biber. However, it only works if the .bbl file has already been created. Unfortunately, it does not extract the bibliography, only the references. The *fancy-preview* script is licensed with the [LaTeX Project Public License](http://www.latex-project.org/lppl.txt). According to it: "Distribution of only part of the Work is considered modification of the Work, and no right to distribute such a Derived Work may be assumed under the terms of this clause", so I cannot upload it here.
 
 
 
